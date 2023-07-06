@@ -1,0 +1,1395 @@
+html {
+  scroll-behavior: smooth;
+}
+.kidspark-icon {
+  position: absolute;
+  top: 62px;
+  left: 569px;
+  width: 302px;
+  height: 52px;
+}
+.about-us,
+.home,
+.programs,
+.why-us {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.5px;
+  line-height: 170.53%;
+  font-weight: 600;
+}
+.about-us,
+.programs,
+.why-us {
+  left: 114px;
+}
+.about-us,
+.why-us {
+  left: 265px;
+}
+.about-us {
+  left: 392px;
+}
+.home-parent {
+  position: absolute;
+  top: 203px;
+  left: 832px;
+  width: 484px;
+  height: 34px;
+}
+.kindergarten,
+.our-programs,
+.pre-k-for-all,
+.preschool {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  letter-spacing: 0.5px;
+  line-height: 170.53%;
+  font-weight: 600;
+}
+.kindergarten,
+.our-programs,
+.pre-k-for-all {
+  top: 112px;
+}
+.our-programs,
+.pre-k-for-all {
+  top: 170px;
+}
+.our-programs {
+  top: 0;
+  font-size: var(--font-size-5xl);
+}
+.preschool-parent {
+  position: absolute;
+  top: 280px;
+  left: 832px;
+  width: 169px;
+  height: 204px;
+}
+.call-us,
+.email-us,
+.our-office {
+  text-decoration: none;
+  position: absolute;
+  top: 54px;
+  left: 0;
+  letter-spacing: 0.5px;
+  line-height: 170.53%;
+  font-weight: 600;
+  color: inherit;
+}
+.email-us,
+.our-office {
+  top: 112px;
+}
+.our-office {
+  top: 170px;
+}
+.call-us-parent {
+  position: absolute;
+  top: 280px;
+  left: 1091px;
+  width: 131px;
+  height: 204px;
+}
+.enter-your-email {
+  position: absolute;
+  top: 21px;
+  left: 40px;
+  line-height: 178.5%;
+  font-weight: 600;
+}
+.group-child {
+  border-radius: var(--br-41xl);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.group-child,
+.group-item,
+.rectangle-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 488px;
+  height: 74px;
+}
+.group-item {
+  border-radius: var(--br-41xl);
+  background-color: var(--color-white);
+  width: 171px;
+  height: 54px;
+}
+.join-now {
+  position: absolute;
+  top: 11px;
+  left: 48px;
+  font-size: var(--font-size-lg);
+  line-height: 178.5%;
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-darkgray);
+  text-align: left;
+}
+.rectangle-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 10px;
+  left: 305px;
+  width: 171px;
+  height: 54px;
+}
+.enter-your-email-address-parent {
+  position: absolute;
+  top: 222px;
+  left: 0;
+  width: 488px;
+  height: 74px;
+}
+.join-and-be,
+.stay-up-to {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  width: 386px;
+}
+.stay-up-to {
+  top: 0;
+  font-size: 36px;
+}
+.join-and-be {
+  top: 118px;
+  line-height: 180%;
+}
+.footer,
+.group-parent {
+  position: absolute;
+  top: 188px;
+  left: 120px;
+  width: 488px;
+  height: 296px;
+  font-size: var(--font-size-lg);
+}
+.footer {
+  top: 4773px;
+  left: 0;
+  background-color: var(--color-darkgray);
+  width: 1440px;
+  height: 600px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-open-sans);
+}
+.lets-talk-with,
+.we-offer-high {
+  position: absolute;
+  left: 120px;
+  text-align: left;
+  display: inline-block;
+}
+.lets-talk-with {
+  top: 99px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-darkgray);
+  width: 352px;
+}
+.we-offer-high {
+  top: 324px;
+  line-height: 33px;
+  font-weight: 600;
+  width: 457px;
+}
+.call,
+.div {
+  position: absolute;
+  top: 31px;
+  left: 72px;
+  line-height: 32px;
+}
+.call {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--color-darkgray);
+  text-align: left;
+}
+.frame-child {
+  position: absolute;
+  height: 67.74%;
+  width: 67.74%;
+  top: 16.13%;
+  right: 16.13%;
+  bottom: 16.13%;
+  left: 16.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-wrapper {
+  text-decoration: none;
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 62px;
+  height: 62px;
+}
+.contact-us-inner,
+.email-1-icon,
+.parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 196px;
+  height: 63px;
+}
+.contact-us-inner,
+.email-1-icon {
+  top: 420px;
+  left: 123px;
+}
+.email-1-icon {
+  height: 67.74%;
+  width: 67.74%;
+  top: 16.13%;
+  right: 16.14%;
+  bottom: 16.13%;
+  left: 16.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.email-1-wrapper {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 62px;
+  height: 62px;
+}
+.email,
+.loremipsumgmailcom {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  line-height: 32px;
+}
+.email {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--color-darkgray);
+  text-align: left;
+}
+.frame-parent,
+.loremipsumgmailcom-parent {
+  position: absolute;
+  top: 0;
+  left: 72px;
+  width: 205px;
+  height: 62px;
+}
+.frame-parent {
+  top: 523px;
+  left: 123px;
+  width: 277px;
+}
+.bandung-indonesia {
+  position: absolute;
+  top: 32px;
+  left: 0;
+  line-height: 32px;
+}
+.bandung-indonesia-parent {
+  position: absolute;
+  top: 0;
+  left: 72px;
+  width: 168px;
+  height: 64px;
+}
+.map-location-1-wrapper {
+  text-decoration: none;
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 62px;
+  height: 62px;
+}
+.group-container {
+  position: absolute;
+  top: 625px;
+  left: 120px;
+  width: 240px;
+  height: 64px;
+}
+.group-inner,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray);
+  width: 590px;
+  height: 716px;
+}
+.rectangle-div {
+  border-radius: var(--br-41xl);
+  background-color: var(--color-lightgray-200);
+  width: 183px;
+  height: 60px;
+}
+.send-message {
+  position: absolute;
+  top: 18px;
+  left: 27px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.5px;
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-white);
+  text-align: left;
+}
+.rectangle-container {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 617px;
+  left: 112px;
+  width: 183px;
+  height: 60px;
+}
+.group-child1,
+.message {
+  position: absolute;
+  left: 0;
+}
+.message {
+  top: 0;
+  font-size: var(--font-size-lg);
+  line-height: 32px;
+  font-family: var(--font-open-sans);
+  color: var(--color-darkgray);
+  text-align: center;
+}
+.group-child1 {
+  top: 52px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 352px;
+  height: 168px;
+}
+.type-your-message {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-open-sans);
+  font-size: var(--font-size-lg);
+  position: absolute;
+  top: 72px;
+  left: 20px;
+  line-height: 32px;
+  color: var(--color-silver);
+  text-align: left;
+}
+.message-parent,
+.your-name {
+  position: absolute;
+  top: 358px;
+  left: 112px;
+  width: 352px;
+  height: 220px;
+}
+.your-name {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  line-height: 32px;
+  font-family: var(--font-open-sans);
+  color: var(--color-darkgray);
+  text-align: center;
+  display: inline-block;
+  width: 92px;
+  height: 28.57px;
+}
+.group-child2 {
+  position: absolute;
+  top: 46.43px;
+  left: 0;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-white);
+  width: 352px;
+  height: 53.57px;
+}
+.frame-icon,
+.full-name-here {
+  position: absolute;
+  top: 58.93px;
+  height: 28.57px;
+}
+.full-name-here {
+  left: 74px;
+  font-size: var(--font-size-lg);
+  line-height: 32px;
+  font-family: var(--font-open-sans);
+  color: var(--color-silver);
+  text-align: left;
+  display: inline-block;
+  width: 126px;
+}
+.frame-icon {
+  left: 16px;
+  width: 32px;
+}
+.frame,
+.your-name-parent {
+  position: absolute;
+  top: 74px;
+  left: 112px;
+  width: 352px;
+  height: 100px;
+}
+.frame {
+  top: 280px;
+  left: 453px;
+  width: 25px;
+  height: 17px;
+  overflow: hidden;
+}
+.group-child3 {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-white);
+  width: 352px;
+  height: 60px;
+}
+.your-email-address {
+  position: absolute;
+  top: 56px;
+  left: 74px;
+  font-size: var(--font-size-lg);
+  line-height: 32px;
+  font-family: var(--font-open-sans);
+  color: var(--color-silver);
+  text-align: left;
+}
+.group-child4 {
+  position: absolute;
+  top: 56px;
+  left: 16px;
+  width: 32px;
+  height: 32px;
+}
+.your-mail-parent {
+  position: absolute;
+  top: 216px;
+  left: 112px;
+  width: 352px;
+  height: 102px;
+}
+.contact-us1,
+.rectangle-group {
+  position: absolute;
+  top: 69px;
+  left: 677px;
+  width: 590px;
+  height: 716px;
+}
+.contact-us1 {
+  top: 3962px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 837px;
+  overflow: hidden;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  width: 285px;
+  height: 285px;
+  object-fit: cover;
+}
+.headmaster,
+.warso-setyo {
+  position: absolute;
+  top: 315px;
+  left: 68px;
+  line-height: 32px;
+}
+.headmaster {
+  top: 357px;
+  left: 87px;
+  font-size: var(--font-size-lg);
+  color: var(--color-lightgray-100);
+  text-align: center;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 201px;
+  left: 120px;
+  width: 285px;
+  height: 389px;
+}
+.math-teacher,
+.retno-hadi {
+  position: absolute;
+  top: 315px;
+  left: 76px;
+  line-height: 32px;
+}
+.math-teacher {
+  top: 357px;
+  left: 80px;
+  font-size: var(--font-size-lg);
+  color: var(--color-lightgray-100);
+  text-align: center;
+}
+.ellipse-group {
+  position: absolute;
+  top: 201px;
+  left: 425px;
+  width: 285px;
+  height: 389px;
+}
+.english-teacher,
+.nursholaha {
+  position: absolute;
+  top: 315px;
+  left: 72px;
+  line-height: 32px;
+}
+.english-teacher {
+  top: 357px;
+  font-size: var(--font-size-lg);
+  color: var(--color-lightgray-100);
+  text-align: center;
+}
+.ellipse-container {
+  position: absolute;
+  top: 201px;
+  left: 730px;
+  width: 285px;
+  height: 389px;
+}
+.art-teacher,
+.zubaidah {
+  position: absolute;
+  top: 315px;
+  left: 86px;
+  line-height: 32px;
+}
+.art-teacher {
+  top: 357px;
+  left: 90px;
+  font-size: var(--font-size-lg);
+  color: var(--color-lightgray-100);
+  text-align: center;
+}
+.group-div {
+  position: absolute;
+  top: 201px;
+  left: 1035px;
+  width: 285px;
+  height: 389px;
+}
+.our-talented-teachers {
+  margin: 0;
+  position: absolute;
+  top: 62px;
+  left: 448px;
+  font-size: var(--font-size-29xl);
+  font-weight: 700;
+  font-family: inherit;
+}
+.our-teacher {
+  position: absolute;
+  top: 3296px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 666px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkgray);
+  font-family: var(--font-open-sans);
+}
+.about-us-child,
+.rectangle-icon {
+  position: absolute;
+  top: 117px;
+  left: 120px;
+  border-radius: var(--br-11xl);
+  width: 488px;
+  height: 481px;
+  object-fit: cover;
+}
+.rectangle-icon {
+  top: 15px;
+  left: 21px;
+  width: 387px;
+  height: 276px;
+}
+.rectangle-700-stroke,
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 429px;
+  height: 306px;
+}
+.rectangle-parent1 {
+  top: 382px;
+  left: 261px;
+}
+.guiding-your-kids,
+.we-offer-high1 {
+  position: absolute;
+  left: 749px;
+  display: inline-block;
+}
+.we-offer-high1 {
+  top: 391px;
+  line-height: 33px;
+  font-weight: 600;
+  width: 363px;
+}
+.guiding-your-kids {
+  margin: 0;
+  top: 176px;
+  font-size: var(--font-size-29xl);
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--color-darkgray);
+  width: 483px;
+}
+.about-us2 {
+  position: absolute;
+  top: 18px;
+  left: 51px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.5px;
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-white);
+  text-align: left;
+}
+.group-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 530px;
+  left: 749px;
+  width: 183px;
+  height: 60px;
+}
+.span {
+  color: var(--color-darkgray);
+}
+.call-us-container {
+  position: absolute;
+  top: 549px;
+  left: 972px;
+  line-height: 120%;
+  color: var(--color-lightgray-100);
+}
+.about-us1 {
+  position: absolute;
+  top: 2503px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 793px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-silver);
+  font-family: var(--font-open-sans);
+}
+.a-brighter-future,
+.b {
+  position: absolute;
+  color: var(--color-darkgray);
+}
+.a-brighter-future {
+  top: 108px;
+  left: 120px;
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+  width: 495px;
+}
+.b {
+  top: 0;
+  left: 72px;
+  font-size: var(--font-size-5xl);
+  line-height: 32px;
+}
+.achievment-icon {
+  position: absolute;
+  height: 98.41%;
+  width: 28.44%;
+  top: 1.59%;
+  right: 71.56%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.about-us-inner,
+.group-child9,
+.total-achievment-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 218px;
+  height: 63px;
+}
+.about-us-inner,
+.group-child9 {
+  top: 298px;
+  left: 467px;
+}
+.group-child9 {
+  top: 0;
+  left: 0;
+  width: 62px;
+  height: 62px;
+}
+.happy-student {
+  top: 30px;
+  left: 72px;
+  line-height: 32px;
+}
+.frame-group,
+.happy-student,
+.k {
+  position: absolute;
+}
+.frame-group {
+  top: 298px;
+  left: 802px;
+  width: 197px;
+  height: 62px;
+}
+.k {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  line-height: 32px;
+  color: var(--color-darkgray);
+}
+.positif-review-parent {
+  position: absolute;
+  top: 0;
+  left: 72px;
+  width: 116px;
+  height: 64px;
+}
+.group-child10,
+.group-parent1 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 62px;
+  height: 62px;
+}
+.group-parent1 {
+  top: 298px;
+  left: 1097px;
+  width: 188px;
+  height: 64px;
+}
+.group-parent2,
+.years-experience-parent {
+  position: absolute;
+  top: 0;
+  left: 72px;
+  width: 144px;
+  height: 64px;
+}
+.group-parent2 {
+  top: 298px;
+  left: 120px;
+  width: 216px;
+}
+.we-offer-high2 {
+  position: absolute;
+  top: 140px;
+  left: 832px;
+  line-height: 33px;
+  font-weight: 600;
+  display: inline-block;
+  width: 488px;
+}
+.about-us3 {
+  position: absolute;
+  top: 2035px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 468px;
+  overflow: hidden;
+  text-align: left;
+}
+.group-child12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  width: 387px;
+  height: 342px;
+  object-fit: cover;
+}
+.kindergarten-3 {
+  position: absolute;
+  top: 372px;
+  left: 41px;
+  line-height: 32px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 285px;
+  left: 527px;
+  width: 387px;
+  height: 404px;
+}
+.pre-k-for-all1 {
+  position: absolute;
+  top: 372px;
+  left: 66px;
+  line-height: 32px;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 285px;
+  left: 934px;
+  width: 387px;
+  height: 404px;
+}
+.our-smarty-program {
+  margin: 0;
+  position: absolute;
+  top: 70px;
+  left: 472px;
+  font-size: var(--font-size-29xl);
+  font-weight: 700;
+  font-family: inherit;
+}
+.get-started {
+  position: absolute;
+  top: 18px;
+  left: 40px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.5px;
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-white);
+  text-align: left;
+}
+.rectangle-parent4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 165px;
+  left: 628px;
+  width: 183px;
+  height: 60px;
+}
+.preschool-2 {
+  position: absolute;
+  top: 372px;
+  left: 61px;
+  line-height: 32px;
+}
+.our-programs1,
+.rectangle-parent5 {
+  position: absolute;
+  top: 285px;
+  left: 120px;
+  width: 387px;
+  height: 404px;
+}
+.our-programs1 {
+  top: 1263px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 772px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkgray);
+  font-family: var(--font-open-sans);
+}
+.we-offer-high3 {
+  position: absolute;
+  top: 163px;
+  left: 435px;
+  font-size: var(--font-size-lg);
+  line-height: 33px;
+  font-weight: 600;
+  color: var(--color-silver);
+  text-align: center;
+  display: inline-block;
+  width: 569px;
+}
+.our-core-values {
+  margin: 0;
+  position: absolute;
+  top: 78px;
+  left: 527px;
+  font-size: var(--font-size-29xl);
+  font-weight: 700;
+  font-family: inherit;
+}
+.group-child16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-91xl);
+  background-color: var(--color-gray);
+  width: 350px;
+  height: 116px;
+}
+.licensed-child-care {
+  position: absolute;
+  top: 22px;
+  left: 102px;
+  line-height: 150%;
+  display: inline-block;
+  width: 212px;
+}
+.group-child17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-103xl);
+  background-color: var(--color-lightgray-100);
+  width: 50px;
+  height: 50px;
+}
+.vector-icon {
+  position: absolute;
+  top: 14px;
+  left: 11px;
+  width: 28.86px;
+  height: 21.59px;
+}
+.rectangle-parent7 {
+  position: absolute;
+  top: 32px;
+  left: 30px;
+  width: 50px;
+  height: 50px;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 269px;
+  left: 135px;
+  width: 350px;
+  height: 116px;
+}
+.high-quality-learning {
+  position: absolute;
+  top: 22px;
+  left: 115px;
+  line-height: 150%;
+  display: inline-block;
+  width: 212px;
+}
+.rectangle-parent9 {
+  position: absolute;
+  top: 32px;
+  left: 43px;
+  width: 50px;
+  height: 50px;
+}
+.rectangle-parent10,
+.rectangle-parent8,
+.why-us1 {
+  position: absolute;
+  top: 269px;
+  left: 545px;
+  width: 350px;
+  height: 116px;
+}
+.rectangle-parent10,
+.why-us1 {
+  left: 955px;
+}
+.why-us1 {
+  top: 800px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 463px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkgray);
+  font-family: var(--font-open-sans);
+}
+.a-brighter-future1,
+.we-offer-high4 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.a-brighter-future1 {
+  margin: 0;
+  top: 0;
+  font-size: inherit;
+  letter-spacing: 0.5px;
+  line-height: 130%;
+  font-weight: 800;
+  font-family: inherit;
+  width: 407px;
+}
+.we-offer-high4 {
+  top: 312px;
+  font-size: var(--font-size-lg);
+  line-height: 33px;
+  font-weight: 600;
+  color: var(--color-silver);
+  width: 488px;
+}
+.a-brighter-future-for-your-kid-parent {
+  position: absolute;
+  top: 201px;
+  left: 120px;
+  width: 488px;
+  height: 378px;
+}
+.group-child25,
+.rectangle-parent12 {
+  position: absolute;
+  width: 183px;
+  height: 60px;
+}
+.rectangle-parent12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 639px;
+  left: 120px;
+}
+.group-child25 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  border: 1px solid var(--color-lightgray-100);
+  box-sizing: border-box;
+}
+.why-us2 {
+  position: absolute;
+  top: 18px;
+  left: 58px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.5px;
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-lightgray-100);
+  text-align: left;
+}
+.rectangle-parent13 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 639px;
+  left: 324px;
+  width: 183px;
+  height: 60px;
+}
+.group-child26,
+.group-child27,
+.group-child28,
+.group-child29 {
+  position: absolute;
+  top: 264px;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 255px;
+  height: 292px;
+  object-fit: cover;
+}
+.group-child27,
+.group-child28,
+.group-child29 {
+  top: 0;
+  left: 305px;
+  width: 285px;
+  height: 326px;
+}
+.group-child28,
+.group-child29 {
+  top: 376px;
+  height: 180px;
+}
+.group-child29 {
+  top: 0;
+  left: 0;
+  width: 255px;
+  height: 214px;
+}
+.group-child30,
+.rectangle-parent14 {
+  position: absolute;
+  top: 172px;
+  left: 730px;
+  width: 590px;
+  height: 556px;
+}
+.group-child30 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 254px;
+  height: 292px;
+}
+.b3,
+.total-students {
+  position: absolute;
+  top: 114px;
+  left: 99px;
+  letter-spacing: 0.5px;
+}
+.total-students {
+  top: 155px;
+  left: 61px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-silver);
+}
+.group-child31,
+.group-child32 {
+  position: absolute;
+  top: 32px;
+  left: 91px;
+  width: 72px;
+  height: 72px;
+}
+.group-child32 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-lightgray-200);
+  width: 148px;
+  height: 48px;
+}
+.get-started2 {
+  position: absolute;
+  top: 15px;
+  left: 33px;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-white);
+  text-align: left;
+}
+.rectangle-parent16 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 210px;
+  left: 53px;
+  width: 148px;
+  height: 48px;
+}
+.rectangle-parent15 {
+  position: absolute;
+  top: 304px;
+  left: 898px;
+  width: 254px;
+  height: 292px;
+  font-size: var(--font-size-5xl);
+}
+.hero {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 72px;
+  color: var(--color-darkgray);
+  font-family: var(--font-open-sans);
+}
+.about-us4,
+.home1,
+.programs1,
+.why-us3 {
+  position: absolute;
+  top: 0;
+  letter-spacing: 0.5px;
+  font-weight: 600;
+}
+.home1 {
+  left: 0;
+  color: var(--color-lightgray-100);
+}
+.about-us4,
+.programs1,
+.why-us3 {
+  left: 262px;
+}
+.about-us4,
+.programs1 {
+  left: 114px;
+}
+.about-us4 {
+  left: 388px;
+}
+.ul {
+  margin: 0;
+  position: relative;
+  width: 471px;
+  height: 25px;
+}
+.kidspark-icon1 {
+  position: relative;
+  width: 147.88px;
+  height: 25.89px;
+}
+.group-child33 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-lightgray-100);
+  width: 183px;
+  height: 60px;
+}
+.contact-us2 {
+  position: absolute;
+  top: 17px;
+  left: 43px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.5px;
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-white);
+  text-align: left;
+}
+.rectangle-parent17 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 183px;
+  height: 60px;
+}
+.wireframe-2 {
+  position: relative;
+  display: inline;
+  width: 100%;
+  height: 5399px;
+  text-align: center;
+  color: var(--color-silver);
+}
+.navbar,
+.wireframe-2 {
+  overflow: hidden;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-open-sans);
+}
+
+.navbar {
+  margin: 0;
+  display: inline-flex;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  flex-direction: row;
+  padding: 10px 20px;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #333;
+  color: white;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+.rectangle-parent17 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 40px;
+  background-color: #979797;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.rectangle-parent17:hover {
+  background-color: #666666;
+}
+
+@media screen and (max-width: 1200px) {
+  .home1 {
+    text-align: center;
+    display: flex;
+    cursor: auto;
+    opacity: 0;
+  }
+  .home1.animate {
+    animation: 1s ease 0s 1 normal forwards slide-in-top;
+  }
+  @keyframes slide-in-top {
+    0% {
+      transform: translateY(-200px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+}
+@media screen and (max-width: 420px) {
+  .home1 {
+    text-align: center;
+    display: flex;
+  }
+}
