@@ -169,6 +169,7 @@ html {
 .footer,
 .group-parent {
   position: absolute;
+  display: inline;
   top: 188px;
   left: 120px;
   width: 488px;
